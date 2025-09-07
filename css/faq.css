@@ -1,0 +1,37 @@
+.section-title {
+  margin-top: 50px;
+  margin-bottom: 20px;
+  font-weight: bold;
+  font-size: 1.5rem;
+}
+
+.accordion-button {
+  background-color: #fff;
+  font-weight: 500;
+}
+
+.accordion-button:not(.collapsed) {
+  background-color: #f1f1f1;
+  color: #000;
+}
+
+.accordion-body {
+  background-color: #ffffff;
+  border-top: 1px solid #e0e0e0;
+}
+
+ .support-box {
+  background-color: #f0f8ff;
+  padding: 40px;
+  border-radius: 10px;
+  max-width: 600px;
+  margin-bottom: 60px;
+}
+
+.support-icon svg {
+  width: 40px;
+  height: 40px;
+}
+
+
+
